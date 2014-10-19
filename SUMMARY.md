@@ -1,0 +1,17 @@
+# Summary
+
+* [Introduction](README.md)
+* [Collection Organization](collection_organization/README.md)
+   * [Do’s and Don’ts](collection_organization/dos_and_donts.md)
+       * [My Do's](collection_organization/my_dos.md)
+       * [My Don'ts](collection_organization/my_donts.md)
+   * [General Organization](collection_organization/general_organization.md)
+       * [Movies](collection_organization/movies.md)
+       * [Documentaries](collection_organization/documentaries.md)
+       * [Series](collection_organization/series.md)
+   * [Clean Up Programs](collection_organization/clean_up_programs.md)
+       * [FileBot to Rename Movies and Series](collection_organization/filebot_to_rename_movies_and_series.md)
+       * [File Renamer Basic to Fix Serious Naming Problems](collection_organization/file_renamer_basic_to_fix_serious_naming_problems.md)
+       * [AVI Mux GUI to Combine Videos Split Over More Files](collection_organization/avi_mux_gui_to_combine_videos_split_over_more_files.md)
+       * [MakeMKV to Convert DVDs to Single Files](collection_organization/makemkv_to_convert_dvds_to_single_files.md)
+
