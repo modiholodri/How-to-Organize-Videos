@@ -7,6 +7,7 @@
 node_modules
 # Book build output
 _book
+Thumbs.db
 # eBook build output
 *.epub
 *.mobi
