@@ -20,5 +20,5 @@
    * [PVD Installation](supporting_programs_installation/pvd_installation.md)
    * [AVI Mux GUI Installation](supporting_programs_installation/avi_mux_gui_installation.md)
    * [MakeMKV Installation](supporting_programs_installation/makemkv_installation.md)
-   * [FileRenamer Basic Installation](supporting_programs_installation/filerenamer_basic_installation)
+   * [FileRenamer Basic Installation](supporting_programs_installation/filerenamer_basic_installation.md)
 
