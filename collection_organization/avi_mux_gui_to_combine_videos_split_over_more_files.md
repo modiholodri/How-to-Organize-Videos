@@ -4,4 +4,4 @@ You can find more information on http://www.alexander-noe.com/video/amg.  AVI-Mu
 
 Use AVI Mux GUI to combine movies that are split in two CDs or more.  Drop the files in the top list and select all files in the list.  AVI Mux GUI can only combine files with the same format and resolution.
 
-[![AVIMuxGUI](../images/AVIMuxGUI.jpg)](../images/AVIMuxGUI.jpg)
+![](AVIMuxGUI.jpg)
