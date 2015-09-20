@@ -14,7 +14,7 @@
        * [File Renamer Basic to Fix Serious Naming Problems](collection_organization/file_renamer_basic_to_fix_serious_naming_problems.md)
        * [AVI Mux GUI to Combine Videos Split Over More Files](collection_organization/avi_mux_gui_to_combine_videos_split_over_more_files.md)
        * [MakeMKV to Convert DVDs to Single Files](collection_organization/makemkv_to_convert_dvds_to_single_files.md)
-   * [Tips & Tricks](tips&_tricks_md.md)
+   * [Tips & Tricks](collection_organization/tips&_tricks.md)
 * [Supporting Programs Installation](supporting_programs_installation/README.md)
    * [MFM Installation](supporting_programs_installation/mfm_installation.md)
    * [FileBot Installation](supporting_programs_installation/filebot_installation.md)
