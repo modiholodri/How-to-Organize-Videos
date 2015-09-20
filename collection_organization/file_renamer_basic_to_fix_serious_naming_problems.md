@@ -4,4 +4,4 @@ You can find more information on http://www.sherrodcomputers.com/products_filere
 
 Use File Renamer Basic to fix serious problems with you file name, like for example if the Series name is missing in front of the episodes.
 
-[![FileRenamer](../images/FileRenamer.jpg)](../images/FileRenamer.jpg)
+![](FileRenamer.jpg)
