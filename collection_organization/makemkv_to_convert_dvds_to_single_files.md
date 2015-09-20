@@ -4,4 +4,4 @@ You can find more information on http://www.makemkv.com.  MakeMKV is your one-cl
 
 Use MakeMKV to convert your DVDs to single MKV files.  If movies are stored in the DVD structure as the single VOB files, MFM will not work.
 
-[![MakeMKV](../images/MakeMKV.jpg)](../images/MakeMKV.jpg)
+![](MakeMKV.jpg)
