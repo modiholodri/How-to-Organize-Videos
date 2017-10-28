@@ -10,6 +10,7 @@ The recommended naming formats for episodes are…
 
 `Series Name` S`Season Number`E`Episode Number` `Episode Title`
 
-The series should be in a folder for the each series and sub-folders for each season.
+The series should be in a folder for each series and no sub-folders for each season should be made.
 
 ![](SeriesFormat.jpg)
+
